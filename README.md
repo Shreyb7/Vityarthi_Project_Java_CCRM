@@ -74,37 +74,37 @@ Steps to Run the  Java project :
 STEPS TO INSTALL AND RUN JDK21 IN WINDOWS :
 
 ⬇️1. Search and download suitable JDK file from Oracle site :
-   <img width="2560" height="1600" alt="installation step1" src="https://github.com/user-attachments/assets/2cf8709a-4fa0-4713-9c5f-7f55fab7d5a6" />
+           <img width="2560" height="1600" alt="installation step1" src="https://github.com/user-attachments/assets/2cf8709a-4fa0-4713-9c5f-7f55fab7d5a6" />
    
 🛠️2. After downloading install the the kit :
-   <img width="2560" height="1600" alt="installation step 2" src="https://github.com/user-attachments/assets/5357b971-0a66-4318-a878-9f99046d050c" />
+           <img width="2560" height="1600" alt="installation step 2" src="https://github.com/user-attachments/assets/5357b971-0a66-4318-a878-9f99046d050c" />
 
  ⚙️3. Check destination folder :
-   <img width="2560" height="1600" alt="installation step 3" src="https://github.com/user-attachments/assets/e4787da1-2872-4ad1-a22f-d3a70a57af66" />
+            <img width="2560" height="1600" alt="installation step 3" src="https://github.com/user-attachments/assets/e4787da1-2872-4ad1-a22f-d3a70a57af66" />
 
  ⚙️4. Close installation Wizard :
-   <img width="2560" height="1600" alt="installation step 4" src="https://github.com/user-attachments/assets/72adb4fa-76e6-493f-ba84-8bb3630d7047" />
+            <img width="2560" height="1600" alt="installation step 4" src="https://github.com/user-attachments/assets/72adb4fa-76e6-493f-ba84-8bb3630d7047" />
 
  ⚙️5. Copy the path upto bin where you have saved the file :
-   <img width="2560" height="1600" alt="installation step 5" src="https://github.com/user-attachments/assets/9925d558-c911-4792-83a0-34d47eadc5a3" />
+            <img width="2560" height="1600" alt="installation step 5" src="https://github.com/user-attachments/assets/9925d558-c911-4792-83a0-34d47eadc5a3" />
 
  ⚙️6. Go to environment variables :
-   <img width="2560" height="1600" alt="installation step  6" src="https://github.com/user-attachments/assets/92645d82-809c-4079-a953-8e76893edddd" />
+            <img width="2560" height="1600" alt="installation step  6" src="https://github.com/user-attachments/assets/92645d82-809c-4079-a953-8e76893edddd" />
 
  ⚙️7. Create new variable and paste the copied path :
-    <img width="2560" height="1600" alt="installation step  7" src="https://github.com/user-attachments/assets/cbe9c317-919d-4586-ac7c-20685f1a8af6" />
+            <img width="2560" height="1600" alt="installation step  7" src="https://github.com/user-attachments/assets/cbe9c317-919d-4586-ac7c-20685f1a8af6" />
 
  ⚙️8. Save the environment variable :
-    <img width="2560" height="1600" alt="installation step  8" src="https://github.com/user-attachments/assets/9d2e894b-303c-4ef1-b796-1b49435e7810" />
+            <img width="2560" height="1600" alt="installation step  8" src="https://github.com/user-attachments/assets/4528213e-9b3e-4ff1-a008-78740f3952fe" />
 
  ⚙️9. edit the path in system variables :
-     <img width="2560" height="1600" alt="installation step  9" src="https://github.com/user-attachments/assets/f2c150b6-36f7-4564-b106-6964b1d22bb3" />
+            <img width="2560" height="1600" alt="installation step  9" src="https://github.com/user-attachments/assets/f2c150b6-36f7-4564-b106-6964b1d22bb3" />
 
  ⚙️10. Save the  path variable :
-    <img width="2560" height="1600" alt="installation step  10" src="https://github.com/user-attachments/assets/d41d4fc9-20e5-4ded-a1df-32703d2de61b" />
+            <img width="2560" height="1600" alt="installation step  10" src="https://github.com/user-attachments/assets/d41d4fc9-20e5-4ded-a1df-32703d2de61b" />
 
  ✅11. Verify the  version installation :
-     <img width="2560" height="1600" alt="installation step  11" src="https://github.com/user-attachments/assets/6902828f-940f-4f1e-ac1c-6794394a6ba6" />
+            <img width="2560" height="1600" alt="installation step  11" src="https://github.com/user-attachments/assets/6902828f-940f-4f1e-ac1c-6794394a6ba6" />
 
      These are all the steps for windows installation.
 
