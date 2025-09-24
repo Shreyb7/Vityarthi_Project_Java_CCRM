@@ -105,8 +105,102 @@ STEPS TO INSTALL AND RUN JDK21 IN WINDOWS :
 
  ✅11. Verify the  version installation :
             <img width="2560" height="1600" alt="installation step  11" src="https://github.com/user-attachments/assets/6902828f-940f-4f1e-ac1c-6794394a6ba6" />
+            
 
      These are all the steps for windows installation.
+     
+
+STEPS TO INSTALL AND SETUP Eclipse IDE :
+
+  1. Search and download the Eclipse IDE for Java developers :
+       <img width="2560" height="1600" alt="Eclipse installation and  setup 1" src="https://github.com/user-attachments/assets/23d91979-d463-4f59-9deb-afb7330f113c" />
+       
+  2. Download zip file :
+       <img width="2560" height="1600" alt="Eclipse installation and  setup 2" src="https://github.com/user-attachments/assets/316018b7-c124-4c4f-9258-a0f7ae580c91" />
+
+ 3. Check path of file , extract and run Eclipse.exe file :
+       <img width="2560" height="1600" alt="Eclipse installation and  setup 3" src="https://github.com/user-attachments/assets/03d99af8-4044-4be0-ad81-21afde2add25" />
+
+       <img width="2560" height="1600" alt="Eclipse installation and  setup 4" src="https://github.com/user-attachments/assets/15b4cffd-fb16-41e4-b80f-5d67439dafa2" />
+
+       <img width="2560" height="1600" alt="Eclipse installation and  setup 5" src="https://github.com/user-attachments/assets/e4f91fb8-bb56-4ac3-9b14-b2719a15d9d9" />
+
+ 4. Launch the IDE and carry out required instructions :
+     <img width="2560" height="1600" alt="Eclipse installation and  setup 6" src="https://github.com/user-attachments/assets/b59c6a13-135a-4e0d-81e3-aa6cb5f9bb8c" />
+
+    <img width="2560" height="1600" alt="Eclipse installation and  setup 7" src="https://github.com/user-attachments/assets/f72a989d-c458-48a1-aacf-e9f09f7fb554" />
+
+    <img width="2560" height="1600" alt="Eclipse installation and  setup 8" src="https://github.com/user-attachments/assets/6982774e-d20d-4a93-be4f-4e91fb287e61" />
+
+    <img width="2560" height="1600" alt="Eclipse installation and  setup 10" src="https://github.com/user-attachments/assets/d694e79b-cd68-4790-aa1c-d8845d6b6a74" />
+
+
+ 5. you can see the Eclipse IDE running :
+      <img width="2560" height="1600" alt="Eclipse installation and  setup 11" src="https://github.com/user-attachments/assets/c050abaa-7261-476c-92d8-a1b710de0ce1" />
+      
+
+
+          These are all the steps for the  Installations and Setup for the Eclipse IDE you can see the program output  in the screenshot Section.
+
+    
+
+    FOLLOWING ARE THE SCREENSHOTS OF IMPORTING PROJECT FROM GIT REPOSITORY :
+    
+Step 1: Git Repo link
+    <img width="2560" height="1600" alt="Eclipse installation and  setup 12" src="https://github.com/user-attachments/assets/78adaf3f-c469-47ab-9c42-7f4758f86d3d" />
+    
+Step 2: import project from git
+    <img width="2560" height="1600" alt="Eclipse installation and  setup 13" src="https://github.com/user-attachments/assets/592faf6c-a7cc-49b2-a278-450e97f188de" />
+    
+Step 3: Clone URL
+    <img width="2560" height="1600" alt="Eclipse installation and  setup 14" src="https://github.com/user-attachments/assets/82e94be8-8f46-4cd7-8747-0bbdae6467e6" />
+
+Step 4: Authentication , Branch Selection and Destination
+     <img width="2560" height="1600" alt="Eclipse installation and  setup 15" src="https://github.com/user-attachments/assets/bac3081c-1eed-47d0-86e1-4edb7dc5afe3" />
+
+   <img width="2560" height="1600" alt="Eclipse installation and  setup 16" src="https://github.com/user-attachments/assets/edf74edb-c222-4aa9-a32b-390a8b5b7169" />
+
+   <img width="2560" height="1600" alt="Eclipse installation and  setup 17" src="https://github.com/user-attachments/assets/3a4312f3-34f6-442f-a93d-339e9f1838cc" />
+
+
+Step 5: Final Steps 
+   <img width="2560" height="1600" alt="Eclipse installation and  setup 18" src="https://github.com/user-attachments/assets/85f7ec9b-4775-4a58-af25-06e7ea22eb46" />
+
+   <img width="2560" height="1600" alt="Eclipse installation and  setup 19" src="https://github.com/user-attachments/assets/258b7167-627c-4e1b-8e54-a96c1115028e" />
+
+   <img width="2560" height="1600" alt="Eclipse installation and  setup 20" src="https://github.com/user-attachments/assets/c54ca958-e9c7-449c-957d-32706ea05fc0" />
+
+
+  Now you can see the file structure of project and the code in Eclipse :
+
+<img width="2560" height="1600" alt="Eclipse installation and  setup 24" src="https://github.com/user-attachments/assets/a0f14da4-f6d6-4990-8ce2-da88305bfb74" />
+
+
+       These are all steps for importing project in Eclipse.
+
+       
+
+
+     
+
+
+
+   
+     
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
 
 
 
