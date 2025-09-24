@@ -144,7 +144,7 @@ STEPS TO INSTALL AND SETUP Eclipse IDE :
 
     
 
-    FOLLOWING ARE THE SCREENSHOTS OF IMPORTING PROJECT FROM GIT REPOSITORY :
+    FOLLOWING ARE THE SCREENSHOTS OF  PROJECT CREATION FROM GIT REPOSITORY :
     
 Step 1: Git Repo link
     <img width="2560" height="1600" alt="Eclipse installation and  setup 12" src="https://github.com/user-attachments/assets/78adaf3f-c469-47ab-9c42-7f4758f86d3d" />
@@ -176,7 +176,7 @@ Step 5: Final Steps
 <img width="2560" height="1600" alt="Eclipse installation and  setup 24" src="https://github.com/user-attachments/assets/a0f14da4-f6d6-4990-8ce2-da88305bfb74" />
 
 
-       These are all steps for importing project in Eclipse.
+       These are all steps for project creation in Eclipse.
 
        
 
