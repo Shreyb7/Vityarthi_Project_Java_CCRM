@@ -1,6 +1,6 @@
-📘Campus Course & Records Manager (CCRM)
+**#📘Campus Course & Records Manager (CCRM)**
 
-🔹 Project Overview
+##🔹 Project Overview
 
 The Campus Course & Records Manager (CCRM) is a Java SE console application that allows an institute to manage academic records through a structured, menu-driven interface.
 
@@ -18,7 +18,7 @@ Importing/exporting data files and creating timestamped backups.
 
 This project was developed to demonstrate the breadth of the Java SE platform, showcasing both fundamentals and advanced features in a single, integrated system.
 
-Steps to Run the  Java project :
+##Steps to Run the  Java project :
 
      1. git clone https://github.com/Shreyb7/Vityarthi_Project_Java_CCRM.git
      cd Vityarthi_Project_Java_CCRM
@@ -31,7 +31,7 @@ Steps to Run the  Java project :
        Place sample CSV files inside a test-data/ folder (e.g., students.csv, courses.csv)
        Use the menu option in the CLI to import/export.
 
-📖 Evolution of Java :
+##📖 Evolution of Java :
 
 🔹1995 – Java 1.0 released by Sun Microsystems (WORA: Write Once, Run Anywhere)
 
@@ -54,7 +54,7 @@ Steps to Run the  Java project :
 🔹2023 – Java 21 (latest LTS, virtual threads, pattern matching enhancements)
 
 
-🔍 Java Editions :
+##🔍 Java Editions :
 
 🔹Java ME (Micro Edition): A lightweight version of Java designed for resource-constrained devices like mobile phones, PDAs, and embedded systems.
 
@@ -63,7 +63,7 @@ Steps to Run the  Java project :
 🔹Java EE (Enterprise Edition) / Jakarta EE: An extension of Java SE with additional APIs for building large-scale, distributed, web, and enterprise applications.
 
 
-⚙️ Java Architecture :
+##⚙️ Java Architecture :
 
 🔹JDK (Java Development Kit): A full development toolkit containing compiler (javac), debugger, libraries, and tools required to develop, compile, and run Java programs.
 
