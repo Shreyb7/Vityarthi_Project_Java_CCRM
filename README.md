@@ -170,6 +170,39 @@ STEPS TO INSTALL AND RUN JDK21 IN WINDOWS :
     
  ### FOLLOWING ARE THE SCREENHOTS OF PROGRAM OPERATIONS OUTPUT :
 
+####  Output for the initail UI interface and operations in Program :
+<img width="2560" height="1600" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/5562ccba-a390-494f-ba85-d8a1819e44cb" />
+
+####  Output for Student management - add, list , update and deactivate :
+<img width="2560" height="1600" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/6db26cf0-4c85-49a9-8057-e0a429a996dc" />
+
+####  Output for the Course management :
+<img width="2560" height="1600" alt="Screenshot (259)" src="https://github.com/user-attachments/assets/8042db91-1495-4576-bff9-9356ac4bc5ef" />
+
+####  Output for the enrolled Students :
+ <img width="2560" height="1600" alt="Screenshot (260)" src="https://github.com/user-attachments/assets/9bb61546-1f03-43c6-a6dc-0ff60bcf6011" />
+
+####  Output for the Student Grading management :
+ <img width="2560" height="1600" alt="Screenshot (261)" src="https://github.com/user-attachments/assets/e17a4f83-6f04-4f9a-86e1-a79819a2bed1" />
+
+ ####  Output for the Transcript of the student with Assigned Grade :
+ <img width="2560" height="1600" alt="Screenshot (262)" src="https://github.com/user-attachments/assets/eea6665e-21dd-4021-ad72-94df38c1f521" />
+
+ ####  Output for the File Operations and Utilities :
+ <img width="2560" height="1600" alt="Screenshot (263)" src="https://github.com/user-attachments/assets/2eb14ecc-dd21-43ec-a5c2-808815b74e08" />
+
+
+  ###### These are the Outputs of the Program.
+
+
+
+
+
+
+
+
+  
+
     
 
        
