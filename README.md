@@ -18,6 +18,20 @@ Importing/exporting data files and creating timestamped backups.
 
 This project was developed to demonstrate the breadth of the Java SE platform, showcasing both fundamentals and advanced features in a single, integrated system.
 
+## ⚙️ Code Implementation Mapping
+
+| Syllabus/Project Feature | Code Implementation (File & Key Methods) |
+| :--- | :--- |
+| **Main Application Entry & Menu** | `cli/Main.java` and `main()` |
+| **Application Configuration** (Singleton) | `config/AppConfig.java` and `getInstance()` |
+| **Student Management (CRUD)** | `service/StudentService.java` and methods like `addStudent()`, `updateStudent()`, `deleteStudent()` |
+| **Course Management (CRUD)** | `service/CourseService.java` and methods like `addCourse()`, `manageCourses()` |
+| **Enrollment & Grading Logic** | `service/EnrollmentService.java` and methods like `manageEnrollments()`, `gradeStudent()` |
+| **File Operations (I/O)** | `io/FileService.java` and methods like `importData()`, `exportData()` |
+| **Object-Oriented Data Models** | `domain/Student.java`, `domain/Course.java`, `domain/Enrollment.java` |
+| **Custom Error Handling** | `exceptions/StudentNotFoundException.java`, `exceptions/CourseNotFoundException.java` |
+
+
 ###  Steps to Run the  Java project :
 
      1. git clone https://github.com/Shreyb7/Vityarthi_Project_Java_CCRM.git
