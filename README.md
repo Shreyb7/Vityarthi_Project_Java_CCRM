@@ -31,6 +31,14 @@ This project was developed to demonstrate the breadth of the Java SE platform, s
 | **Object-Oriented Data Models** | `domain/Student.java`, `domain/Course.java`, `domain/Enrollment.java` |
 | **Custom Error Handling** | `exceptions/StudentNotFoundException.java`, `exceptions/CourseNotFoundException.java` |
 
+## 🛡️ Notes on enabling Assertions  :
+
+Assertions are used for internal code checks and pre-condition validation. They ensure that core assumptions about the program's data (like valid student IDs or correct input ranges) are met before proceeding.
+
+To enable these internal checks when running the program from the command line, use the -ea (enable assertions) flag:
+
+      java -ea -cp out edu.ccrm.cli.Main
+
 
 ###  Steps to Run the  Java project :
 
