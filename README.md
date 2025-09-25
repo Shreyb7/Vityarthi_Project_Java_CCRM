@@ -18,7 +18,7 @@ Importing/exporting data files and creating timestamped backups.
 
 This project was developed to demonstrate the breadth of the Java SE platform, showcasing both fundamentals and advanced features in a single, integrated system.
 
-## ⚙️ Code Implementation Mapping
+## ⚙️ Code Implementation Mapping :
 
 | Syllabus/Project Feature | Code Implementation (File & Key Methods) |
 | :--- | :--- |
